@@ -1,5 +1,5 @@
 # TP9DPBO2025C1
-Saya Nina Wulandari dengan NIM 2312091 mengerjakan Tugas Praktikum 8 dalam mata kuliah DPBO untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
+Saya Nina Wulandari dengan NIM 2312091 mengerjakan Tugas Praktikum 9 dalam mata kuliah DPBO untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 
 # Struktur Database
 Database ini menyimpan 1 tabel, yaitu tabel students dengan atribut berikut:
